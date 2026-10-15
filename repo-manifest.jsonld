@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jupyter/jupyter_client/commit/978361b3785dcd9cba6c733f4555e833e88fc0df",
       "git:hexsha": "978361b3785dcd9cba6c733f4555e833e88fc0df",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v8.10.0"
     },
     {
