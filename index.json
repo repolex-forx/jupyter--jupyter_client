@@ -1,0 +1,11 @@
+{
+  "org": "jupyter",
+  "repo": "jupyter_client",
+  "versions": [
+    {
+      "commit": "978361b3785dcd9cba6c733f4555e833e88fc0df",
+      "tag": "v8.10.0",
+      "parsed_at": "2026-10-15T15:45:27.769972+00:00"
+    }
+  ]
+}
